@@ -1,0 +1,2 @@
+If (input to start reset):
+puzzle1done == puzzle2done == puzzle3done == puzzle4done == puzzle5done == allpuzzledone == False
