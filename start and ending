@@ -1,0 +1,6 @@
+if puzzle1start == true
+  place contents of code here
+  
+  if condition for puzzledone:
+  puzzle1done == true
+  sys.exit()
